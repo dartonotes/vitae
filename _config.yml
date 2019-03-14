@@ -23,11 +23,11 @@ website: github.io/dartonotes
 website_full: https://dartonotes.github.io/
 github: dartonotes
 twitter: dartonotes
-tel: +44 0000 000000
-tel_full: tel:+440000000000
-google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
+tel: 
+tel_full: 
+google_maps: 
 address:
-  street: Jl Bujana Tirta 6 Blok B No 12
+  street: Rawamangun
   postcode: 
   city: Jakarta
   country: Indonesia
